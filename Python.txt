@@ -1,0 +1,318 @@
+What is the output of the following program? : print("Hello World"[ : :-1])
+A) dlroW olleH
+B) Hello World
+C) d
+D) Error
+A
+Given a function that does not return any value, what value is shown when executed at the shell?
+A) int
+B) bool
+C) void
+D) None
+D
+What does ~~~~~~5 evaluate to?
+A) +5
+B) -11
+C) +11
+D) -5
+A
+What is the relation between a class and an object?
+A) A class is an instance of an object.
+B) An object is an instance of a class.
+C) An object is an attribute of a class.
+D) None of the above.
+B
+Which of the following is a valid variable name?
+A) global
+B) 99flag
+C) sum
+D) an$wer
+C
+If the value of a = 20 and b = 20, then a += b will assign ________ to a. 
+A) 40
+B) 30
+C) 20
+D) 10
+A
+The ____________ operator is used to find out if division of two number yields any remainder.
+A) /
+B) +
+C) %
+D) //
+C
+What is used to create an object?
+A) Constructor
+B) Class
+C) Method
+D) None of the above.
+B
+____________ represents an entity in the real world that can be distinctly identified. 
+A) Object
+B) Class
+C) Method
+D) None of the above.
+A
+Which variables are used to keep a count of number of objects created from a class?
+A) Class
+B) Object
+C) Ordinary
+D) Temporary
+A
+Is Python case sensitive when dealing with identifiers?
+A) Yes
+B) No
+C) Machine dependent
+D) None of the mentioned
+A
+What is the maximum possible length of an identifier?
+A) 31 characters
+B) 63 characters
+C) 79 characters
+D) None of the mentioned
+D
+Which of the following is invalid?
+A) _a = 1
+B) __a = 1
+C) __str__ = 1
+D) None of the mentioned
+D
+Which of the following is an invalid variable?
+A) my_string_1
+B) 1st_string
+C) foo
+D) _
+B
+Why are local variable names beginning with an underscore discouraged?
+A) They are used to indicate private variables of a class
+B) They confuse the interpreter
+C) They are used to indicate global variables
+D) They slow down execution
+A
+Which of the following is true for variable names in Python?
+A) Unlimited length
+B) All private members must have leading and trailing underscores
+C) Underscore and ampersand are the only two special characters allowed
+D) None of the mentioned
+A
+Which of the following is an invalid statement?
+A) abc = 1,000,000
+B) a b c = 1000 2000 3000
+C) a,b,c = 1000, 2000, 3000
+D) a_b_c = 1,000,000
+B
+Which of the following cannot be a variable?
+A) __init__
+B) in
+C) it
+D) on
+B
+Which one of these is floor division?
+A) /
+B) //
+C) %
+D) None of the mentioned
+B
+What is the answer to the expression, 22 % 3? 
+A) 7
+B) 1
+C) 0
+D) 5
+B
+What is the output of the expression, 3 * 1 ** 3?
+A) 27
+B) 9
+C) 3
+D) 1
+C
+Which one of the following has the same precedence level?
+A) Addition and Subtraction
+B) Multiplication, Division and Addition
+C) Multiplication, Division, Addition and Subtraction
+D) Addition and Multiplication
+A
+Which one of the following has the highest precedence in the expression?
+A) Exponential
+B) Addition
+C) Multiplication
+D) Parentheses
+D
+Which of these is not a core data type?
+A) List
+B) Dictionary
+C) Tuple
+D) Class
+D
+What will be the value of the Python expression, 4 + 3 % 5?
+A) 4
+B) 7
+C) 2
+D) 0
+B
+What is the return type of function id?
+A) int
+B) float
+C) bool
+D) dict
+A
+What data type is the object? : L = [1, 23, 'hello', 1]
+A) List
+B) Dictionary
+C) Array
+D) Tuple
+A
+In order to store values in terms of key and value, we use which core data type?
+A) List
+B) Tuple
+C) Class
+D) Dictionary
+D
+Select the option that prints:  hello-how-are-you
+A) print('hello', 'how', 'are', 'you')
+B) print('hello', 'how', 'are', 'you' + '-' * 4)
+C) print('hello-' + 'how-are-you')
+D) print('hello' + '-' + 'how' + '-' + 'are' + 'you')
+C
+What does ~4 evaluate to?
+A) -5
+B) -4
+C) -3
+D) +3
+A
+Evaluate the expression given, if A = 16 and B = 15. : A % B // A 
+A) 0.0
+B) 0
+C) 1.0
+D) 1
+B
+Which of the following operators has its associativity from right to left?
+A) +
+B) //
+C) %
+D) **
+D
+What will be the value of x in the Python expression? : x = int(43.55 + 2 /2)
+A) 43
+B) 44
+C) 22
+D) 23
+B
+What is the value of the expression? : 2 + 4.00, 2 ** 4.0
+A) (6.0, 16.0)
+B) (6.00, 16.00)
+C) (6, 16)
+D) (6.00, 16.0)
+A
+Which of the following is the truncation division operator?
+A) /
+B) %
+C) //
+D) |
+C
+What are the values of the Python expressions? : 2 ** (3 ** 2),  (2 ** 3) ** 2,  2 ** 3 ** 2
+A) 64, 512, 64
+B) 64, 64, 64
+C) 512, 512, 512
+D) 512, 64, 512
+D
+What is the value of the expression? : 8 / 4 / 2, 8 / (4 / 2)
+A) (1.0, 4.0)
+B) (1.0, 1.0)
+C) (4.0. 1.0)
+D) (4.0, 4.0)
+A
+What is the value of the expression? : float(22 // 3 + 3 / 3)
+A) 8
+B) 8.0
+C) 8.3
+D) 8.33
+B
+What will be the output of the Python expression? : print(4.00 / (2.0 + 2.0))
+A) Error
+B) 1.0
+C) 1.00
+D) 1
+B
+What will be the output of : print(True == False)?
+A) True
+B) False
+C) Error
+D) None of the mentioned
+B
+What will be the output? : for i in range(0): print(i)
+A) 0
+B) No output
+C) Error
+D) None of the mentioned
+B
+What will be the ouput, if x = 123? : for i in x: print(i)
+A) 1 2 3
+B) 123
+C) Error
+D) None of the mentioned
+C
+What will be the output? : for i in range(2.0): print(i)
+A) 0.0 1.0
+B) 0 1
+C) Error
+D) None of the mentioned
+C
+What will be the output? : for i in [1, 2, 3, 4][ : : -1]: print(i)
+A) 1 2 3 4
+B) 4 3 2 1
+C) Error
+D) None of the mentioned
+B
+What will be the ouput? : for i in ' ': print(i)
+A) None
+B) nothing is printed
+C) Error
+D) None of the mentioned
+B
+Which arithmetic operators cannot be used with strings?
+A) +
+B) *
+C) -
+D) All of the mentioned
+C
+What will be the output? : print(max("How are you?"))
+A) Error
+B) u
+C) t
+D) y
+D
+What will be the ouput? : print(chr(ord('b')+1))
+A) a
+B) b
+C) c
+d) B
+C
+What will be displayed by print(ord('b') - ord('a'))?
+A) 0
+B) 1
+C) -1
+D) 2
+B
+What is the output? : print("abc DEF".capitalize())
+A) Abc DEF
+B) ABC DEF
+C) Abc def
+D) Abc Def
+C
+What is the output? : print("Hello {1} are {0}".format('how', 'you'))
+A) Hello you are how
+B) Hello how are you
+C) Error
+D) Hello {1} are {0}
+A
+Which of the following commands will create a list?
+A) list1 = list()
+B) list1 = []
+C) list1 = list([1, 2, 3])
+D) All of the mentioned
+D
+Suppose list1 is [1, 3, 2]. What is list1 * 2?
+A) [2, 6, 4]
+B) [1, 3, 2, 1, 3]
+C) [1, 3, 2, 1, 3, 2]
+D) [1, 3, 2, 3, 2, 1]
+CX
