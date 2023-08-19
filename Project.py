@@ -687,7 +687,7 @@ def askQuestion(terminate = None):
                     if ('quiz_certification', ) not in mycursor:
                         mycursor.execute("CREATE DATABASE Quiz_Certification")
 
-                    mydb = mysql.connector.connect(host = "localhost", user = "root", password = "iamritik", database = "Quiz_Certification")
+                    mydb = mysql.connector.connect(host = "localhost", user = "root", password = "", database = "Quiz_Certification")
                     mycursor = mydb.cursor()
                     
                     mycursor.execute("SHOW TABLES")
